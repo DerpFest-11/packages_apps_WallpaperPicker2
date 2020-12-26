@@ -30,7 +30,7 @@ public interface PartnerProvider {
      * Marker action used to discover partner.
      */
     String ACTION_PARTNER_CUSTOMIZATION =
-            "com.google.android.apps.nexuslauncher.action.PARTNER_CUSTOMIZATION";
+            "com.android.launcher3.action.PARTNER_CUSTOMIZATION";
 
     /**
      * The resource ID in the partner APK for its list of wallpapers.
